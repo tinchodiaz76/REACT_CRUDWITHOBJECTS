@@ -1,0 +1,31 @@
+Complementos:
+    ESLint
+    GitLens
+    Prettier - Code Formatter -> Auto formateo de código
+    Simple React Snippets
+    vscode-icons
+    Live share
+
+1. ESLint -> Configurar nuestras propias reglas de estilo (codigo)
+    1. npm i -D eslint 
+    2. npx eslint --init (node_modules/eslint/bin)
+
+husky 
+    precommit -> no deja hacer un commit (si no se cumplen las reglas del lintern)
+    prepush -> no deja hacer un push si no corren todos los test
+
+2. Bootstrap + Styled Componentes
+    npm i react-bootstrap
+    
+    CDN vs Files locales 
+
+    Content Delivery Network (AMAZON S3 -> Bucket + Cloudfront) (Contenido Cacheado)
+
+Container
+        Row (fila)
+            Col (columna)
+
+
+Emojis: 
+Win .
+ctrl + command + space
